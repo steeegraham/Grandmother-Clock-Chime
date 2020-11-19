@@ -41,13 +41,13 @@ Listen for Chimes!
 
 ## Version History
 
-### V1 - straight download from source, no integration
+ V1 - straight download from source, no integration
 
 
-### v2 - DFPlayer and RTC DS1302 integration - Serial display of time and DF player demo playing spcified tracks begining at the second
+ v2 - DFPlayer and RTC DS1302 integration - Serial display of time and DF player demo playing spcified tracks begining at the second
 
 
-### v3 - example of deployment to requirements - play hourly unique and 1/4, 1/2 and 3/4 hourly play
+ v3 - example of deployment to requirements - play hourly unique and 1/4, 1/2 and 3/4 hourly play
 
 
 
