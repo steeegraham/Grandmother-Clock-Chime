@@ -26,7 +26,9 @@ Then explore the other sketches to make stuff work with 'current time' as set by
 ## How to use latest sketch for best updates!
 
 
-After connections (standalone WIP); download and open then upload the GMClatest.ino.
+After connections (standalone WIP); ensure you have set the correct date/time using the DS1302_settime.ino sketch upload.
+Copy your chosen mp3 files to the \mp3\ folder of the SD card (see \mp3_3files\ for description of the hourly then quarter of an hour sound files.
+Download and open then upload the GMClatest.ino.
 Watch the Serial monitor on 115200 and appropriate COM port.
 Listen for Chimes!
 
