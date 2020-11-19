@@ -33,7 +33,7 @@ Copy your chosen mp3 files to the \mp3\ folder of the SD card (see \mp3_3files\ 
 
 Download and open then upload the GMClatest.ino.
 
-Watch the Serial monitor on 115200 and appropriate COM port.
+Watch the Serial monitor on 9600 and appropriate COM port.
 
 Listen for Chimes!
 
