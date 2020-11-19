@@ -39,6 +39,19 @@ Listen for Chimes!
 
 
 
+## Version History
+
+### V1 - straight download from source, no integration
+
+
+### v2 - DFPlayer and RTC DS1302 integration - Serial display of time and DF player demo playing spcified tracks begining at the second
+
+
+### v3 - example of deployment to requirements - play hourly unique and 1/4, 1/2 and 3/4 hourly play
+
+
+
+
 ## Sources
 https://surtrtech.com/2018/01/27/how-to-simply-use-ds1302-rtc-module-with-arduino-board-and-lcd-screen/
 https://wiki.dfrobot.com/DFPlayer_Mini_SKU_DFR0299
