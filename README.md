@@ -16,8 +16,19 @@ Grandmother Clock Chime with DS1302 RTC + Arduino Uno
 
 
 
+## Set RTC module with current date and time
 
 
+After connection, edit the DS1302_settime.ino with the current time and quickly upload it.
+Then explore the other sketches to make stuff work with 'current time' as set by previous.
+
+
+## How to use latest sketch for best updates!
+
+
+After connections (standalone WIP); download and open then upload the GMClatest.ino.
+Watch the Serial monitor on 115200 and appropriate COM port.
+Listen for Chimes!
 
 
 
