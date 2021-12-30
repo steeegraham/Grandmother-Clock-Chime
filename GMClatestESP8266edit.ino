@@ -18,8 +18,8 @@
 #include <NTPClient.h>
 #include <ESP8266WiFi.h>
 #include <WiFiUdp.h>
-const char *ssid     = "DrayTek-LAN-A";
-const char *password = "Georgina99";
+const char *ssid     = "YOURSSID";
+const char *password = "YOURPAsSWORD";
 const long utcOffsetInSeconds = 0;
 char daysOfTheWeek[7][12] = {"Sunday", "Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday"};
   // Define NTP Client to get time
